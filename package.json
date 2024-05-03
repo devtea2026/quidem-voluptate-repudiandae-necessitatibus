@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/quidem-voluptate-repudiandae-necessitatibus",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -145,5 +145,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/quidem-voluptate-repudiandae-necessitatibus/issues"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.2.1"
 }
